@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+}
+
+.main {
+    text-align: center;
+}
+
+.sticker {
+    position: sticky;
+    top: 0px;
+}
